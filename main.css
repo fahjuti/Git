@@ -33,8 +33,8 @@ img {
 }
 
 img.profile-pic {
-	height: 5%;
-	width: 5%;
+	height: 10%;
+	width: 10%;
 	object-fit: cover;
 	border-radius: 50%;
 }
@@ -183,14 +183,14 @@ img.profile-pic {
 
 @media screen and (max-width: 600px) {
   img.profile-pic {
-    height: 60%;
+    height: 30%;
     width: 60%;
   }
 }
 
 @media screen and (max-width: 480px) {
   img.profile-pic {
-    height: 80%;
+    height: 50%;
     width: 80%;
   }
 }
